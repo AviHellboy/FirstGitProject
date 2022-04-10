@@ -1,1 +1,2 @@
-print("Welcome !");
+print("Welcome !")
+print("The second welcome message")
