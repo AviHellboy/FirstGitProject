@@ -1,3 +1,6 @@
-print("Hello World")
-print("New helooooo")
-print("Testing the new GITHUB")
+print("Hello World)
+print("The big dinosaur is searching for diner")
+print("My sweeet and sour wife")
+
+
+
